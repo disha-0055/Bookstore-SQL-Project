@@ -68,10 +68,10 @@ Bookstores need to analyze customer purchases, book sales, and inventory to unde
 ## 📸 Screenshots
 
 ### Book Table
-![Book Table](screenshots/Book table.png)
+![Book Table](screenshots/Book_table.png)
 
 ### Customers with At Least 2 Orders
-![Customers Orders](screenshots/Query 1.png)
+![Customers Orders](screenshots/Query1.png)
 
 ### Remaining Stock Analysis
-![Remaining Stock](screenshots/Query 2.png)
+![Remaining Stock](screenshots/Query2.png)
