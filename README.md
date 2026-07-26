@@ -65,3 +65,13 @@ Bookstores need to analyze customer purchases, book sales, and inventory to unde
 * Identified books with no orders to support inventory decisions.
 * Demonstrated practical SQL techniques for solving business analytics problems.
 
+## 📸 Screenshots
+
+### Book Table
+![Book Table](screenshots/Book table.png)
+
+### Customers with At Least 2 Orders
+![Customers Orders](screenshots/Query 1.png)
+
+### Remaining Stock Analysis
+![Remaining Stock](screenshots/Query 2.png)
