@@ -36,6 +36,17 @@ Bookstores need to analyze customer purchases, book sales, and inventory to unde
 * Calculate sales-related metrics.
 * Answer real-world business questions using SQL.
 
+  ## 📸 Screenshots
+
+### Book Table
+![Book Table](screenshots/Book_table.png)
+
+### Customers with At Least 2 Orders
+![Customers Orders](screenshots/Query1.png)
+
+### Remaining Stock Analysis
+![Remaining Stock](screenshots/Query2.png)
+
 ### **Key SQL Concepts Used**
 
 * SELECT & WHERE
@@ -65,13 +76,3 @@ Bookstores need to analyze customer purchases, book sales, and inventory to unde
 * Identified books with no orders to support inventory decisions.
 * Demonstrated practical SQL techniques for solving business analytics problems.
 
-## 📸 Screenshots
-
-### Book Table
-![Book Table](screenshots/Book_table.png)
-
-### Customers with At Least 2 Orders
-![Customers Orders](screenshots/Query1.png)
-
-### Remaining Stock Analysis
-![Remaining Stock](screenshots/Query2.png)
